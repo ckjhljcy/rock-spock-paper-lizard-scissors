@@ -1,3 +1,8 @@
+#0 - rock
+#1 - Spock
+#2 - paper
+#3 - lizard
+#4 - scissors
 import random
 dic = ('rock', 'Spock', 'paper', 'lizard', 'scissors')
 
